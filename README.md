@@ -1,2 +1,5 @@
-# comp0035-practice
-A dummy repo to practice learning GitHub
+# comp0035 practice
+
+## Introduction
+
+This repository is for learning to use GitHub
